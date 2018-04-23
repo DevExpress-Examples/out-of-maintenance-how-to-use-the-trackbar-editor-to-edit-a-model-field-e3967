@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TimeLapse>
+  <Day DayNum="1" ToolTip="ToolTip for Day 1" Text="Day 1" />
+  <Day DayNum="2" ToolTip="ToolTip for Day 2" Text="Day 2" />
+  <Day DayNum="3" ToolTip="ToolTip for Day 3" Text="Day 3" />
+  <Day DayNum="4" ToolTip="ToolTip for Day 4" Text="Day 4" />
+  <Day DayNum="5" ToolTip="ToolTip for Day 5" Text="Day 5" />
+  <Day DayNum="6" ToolTip="ToolTip for Day 6" Text="Day 6" />
+  <Day DayNum="7" ToolTip="ToolTip for Day 7" Text="Day 7" />
+</TimeLapse>
