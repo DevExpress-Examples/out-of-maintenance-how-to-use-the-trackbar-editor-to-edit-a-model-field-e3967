@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [TimeLapse.xml](./CS/App_Data/TimeLapse.xml) (VB: [TimeLapse.xml](./VB/App_Data/TimeLapse.xml))
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [Success.cshtml](./CS/Views/Home/Success.cshtml)
+<!-- default file list end -->
 # How to use the TrackBar editor to edit a Model field
 
 
