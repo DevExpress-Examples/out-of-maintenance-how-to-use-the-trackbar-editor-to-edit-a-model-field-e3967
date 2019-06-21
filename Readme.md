@@ -7,6 +7,9 @@
 * [Success.cshtml](./CS/Views/Home/Success.cshtml)
 <!-- default file list end -->
 # How to use the TrackBar editor to edit a Model field
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3967)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to use the MVC TrackBar Extension to edit a Model field.<br />
