@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to use the TrackBar editor to edit a Model field
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3967)**
+**[[Run Online]](https://codecentral.devexpress.com/e3967/)**
 <!-- run online end -->
 
 
